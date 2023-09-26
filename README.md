@@ -21,17 +21,17 @@
 
 ![MSI X570 A-Pro on NZXT 510](Docs/Images/Guide/PC.png)
 
-## Specs:
+## Specs (modified):
 | Component | Brand |
 |:--- |:---:|
-| Motherboard:  | Msi A-Pro X570 |
-| CPU: | AMD Ryzen 9 3900X |
-| GPU: | Msi Mech OC 5700XT 8GB |
-| Memory: | HyperX 3200MHz 8GB x2 |
+| Motherboard:  | ASUS PRIME X570-P |
+| CPU: | AMD Ryzen 7 2700x |
+| GPU: | Asus RX 5600 XT Dual Evo 6GB |
+| Memory: | Corsair 3200MHz 8GB x2 |
 | Audio: | Realtek ALC1220 |
 | Ethernet: | Realtek 8111H |
-| Power Supply: | NZXT 650W |
-| Case: | NZXT 510 |
+| Power Supply: | Corsair 650W |
+| Case: | Corsair 275R |
 
 These are all the external ports of the Motherboard. (**They all work**):
 
